@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string-array name="HabitWeeklyAmount">
+    <item>1 day per week</item>
+    <item>2 day per week</item>
+    <item>3 day per week</item>
+    <item>4 day per week</item>
+    <item>5 day per week</item>
+    <item>6 day per week</item>
+    <item>7 day per week</item>
+</string-array>
+    <string-array name="HabitTimes">
+        <item>Morning</item>
+        <item>Afternoon</item>
+        <item>Evening</item>
+        <item>Night</item>
+    </string-array>
+</resources>

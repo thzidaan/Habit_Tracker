@@ -1,0 +1,7 @@
+*.iml
+.idea
+.bin
+.lock
+/local.properties
+.DS_Store
+/build
